@@ -1,0 +1,2 @@
+# Credit-Card-Complaints-Executive-Performance-Dashboard
+Analyzed 86,893 Kaggle credit card complaints using Tableau. The "Credit card Complaints Executive dashboard.png" visualizes critical operational KPIs: a 98.9% timely response rate, 2.869-day average resolution, and 20.6% dispute rate. It maps geospatial trends and isolates billing disputes (14,688 cases) to optimize customer experience management.
